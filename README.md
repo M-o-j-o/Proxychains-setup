@@ -111,6 +111,7 @@ Comment out the default SOCKS4 proxy and enter in a new proxy but first ensure T
 <img width="1006" height="925" alt="6" src="https://github.com/user-attachments/assets/c76b9b3d-172f-4d99-938f-1b6842e291e2" />
 
 Start the Tor service
+
 <img width="1005" height="202" alt="7" src="https://github.com/user-attachments/assets/553b3e92-6809-49b4-a2db-6409727f01bd" />
 
 Back in our proxy list we create a new SOCKS5 proxy
