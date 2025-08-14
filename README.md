@@ -113,9 +113,9 @@ Comment out the default SOCKS4 proxy and enter in a new proxy but first ensure T
 Start the Tor service
 <img width="1005" height="202" alt="7" src="https://github.com/user-attachments/assets/553b3e92-6809-49b4-a2db-6409727f01bd" />
 
-
 Back in our proxy list we create a new SOCKS5 proxy
 <img width="494" height="106" alt="8" src="https://github.com/user-attachments/assets/423a8bd8-8bb5-466d-b02c-e1d2dd8b29e8" />
+
 Since we are using nano, we `Crtl + O` , press `Enter` and `Ctrl + X` to exit
 
 To use proxychains we append the proxychains command before any command as shown in the example below
